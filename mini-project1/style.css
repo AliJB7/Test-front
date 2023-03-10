@@ -1,0 +1,17 @@
+body{
+    
+}
+.one{
+    width: 500px;
+    height: 500px;
+    box-sizing: border-box;
+    background-color: lightgray;
+    margin:80px auto;
+}
+.two{
+
+    width: 180px;
+    height: 180px;
+    border: 2px dotted gray;
+    border-radius: 50%;
+}
